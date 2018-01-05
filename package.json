@@ -1,0 +1,16 @@
+{
+  "name": "freebox-player-v6-remote",
+  "version": "1.0.0",
+  "description": "Contrôle de la du player de la freebox V6 via HTTP\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freebox",
+    "contrôle"
+  ],
+  "author": "Jordan Martin",
+  "license": "MIT",
+  "dependencies": {}
+}
